@@ -23,29 +23,17 @@ Developer building systems for <b>quantitative finance, data infrastructure and 
 
 # 🚀 Open Source
 
-## Quanty-UI
+### 🧮 Quanty UI
 
-**Quanty-UI** is an open-source **UI component library built specifically for quantitative finance interfaces**.
+A design system built for quant finance apps — because Bloomberg terminals
+shouldn't be the only thing that looks good with numbers on screen.
 
-Most UI frameworks are designed for generic web applications. Quanty-UI focuses on **tools used by traders, quants and financial engineers**.
+Built with Vue 3 + CSS custom properties. No bloat, no runtime overhead.
+Just tokens, components, and a CLI to add only what you need.
 
-### Goals
+> `npx @quant-ui/cli add table` and you're done.
 
-* UI primitives for **trading and market analysis**
-* Lightweight and modular architecture
-* Components built for **data-heavy dashboards**
-* Easy integration with trading backends
-
-### Planned Components
-
-* Order book visualization
-* Candlestick chart modules
-* Portfolio dashboards
-* Strategy monitoring panels
-* Risk metrics visualization
-* Market data widgets
-
-Quanty-UI aims to become a **foundation layer for building trading interfaces**.
+[→ quanty-ui](https://github.com/thibaudcocostegue/quanty-ui)
 
 ---
 
