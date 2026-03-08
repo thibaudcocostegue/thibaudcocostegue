@@ -79,12 +79,6 @@ I prefer building **focused tools that solve real problems** rather than large c
 
 ---
 
-# 📊 GitHub Stats
-
-![Thibaud's GitHub stats](https://github-readme-stats.vercel.app/api?username=thibaudcocostegue&show_icons=true&bg_color=0d1117&title_color=58a6ff&text_color=e6edf3&icon_color=3fb950&border_color=30363d)
-
----
-
 # 📫 Contact
 
 If you're working on:
