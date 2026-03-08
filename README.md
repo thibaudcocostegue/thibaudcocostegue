@@ -23,7 +23,7 @@ Developer building systems for <b>quantitative finance, data infrastructure and 
 
 # 🚀 Open Source
 
-### 🧮 Quanty UI
+### 🧮 Quanty-UI
 
 A design system built for quant finance apps — because Bloomberg terminals
 shouldn't be the only thing that looks good with numbers on screen.
